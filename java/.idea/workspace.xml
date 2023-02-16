@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2f0539a-5343-4f07-af47-4df79786a173" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project/Quiz_Coin_1/src/Game/Coin/CoinMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Quiz_Coin_1/src/Game/Coin/CoinPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Quiz_Coin_1/src/Game/Coin/CoinPriceChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Quiz_Coin_1/src/Game/Loan/Borrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Quiz_Coin_1/src/Game/Loan/PayBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/test9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project" beforeDir="false" afterPath="$PROJECT_DIR$/project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
+  </component>
+  <component name="ProjectId" id="2Lnz2ZHI3lxjbge4ghWaNnBnWHz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jiyul/coding/java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2f0539a-5343-4f07-af47-4df79786a173" name="Changes" comment="" />
+      <created>1676521430554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676521430554</updated>
+      <workItem from="1676521431782" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
