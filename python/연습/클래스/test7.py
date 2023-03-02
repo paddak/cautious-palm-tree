@@ -8,7 +8,7 @@ class Cordinate:
         self.point.append(x)
         
 A=Cordinate()
-A.point("1")
+A.point(1)
     
 class Distance(Cordinate):
     pass
