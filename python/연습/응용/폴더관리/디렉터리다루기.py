@@ -8,7 +8,7 @@ import pathlib
 print(os.getcwd())          
 print(pathlib.Path.cwd())
 
-#경로존재확인,r은 윈도우같은경우 경로복붙하면 ₩로나옴->인식안되서 /로 알아듣게 만듬
+#경로존재확인,r은 윈도우같은경우 경로복붙하면 ₩로나옴->인식안되서 /로 알아듣게 만듬ㄴㄴ
 dir_file=r"/Users/jiyul/git/python"     
 print(os.path.exists(dir_file))
 print(pathlib.Path.exists(pathlib.Path(dir_file)))
@@ -34,3 +34,8 @@ print(pathlib.PurePath(dir_file).parent)
 print(os.path.join(dir_file,"os"))
 print(pathlib.PurePath(dir_file).joinpath("pathlib"))
 print(pathlib.PurePath(pathlib.PurePath(dir_file).parent).joinpath("pathlib"))
+
+#확장자분리
+file_path=os.path.basename(os.listdir(dir_file)[0])
+print(file_path)
+pathlib.PurePath(file_path).suffix

@@ -30,3 +30,4 @@ add=day4+plus
 print(add)
 
 print(day3.weekday())       #weekday()는 요일판별 월~일=0~6
+
