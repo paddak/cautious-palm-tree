@@ -59,7 +59,8 @@ print(np.linspace(0,10,11,endpoint=False,dtype=int))
 
 #logspace()
 #로그함수인데 그래프그려보자 모듈은 matplotlib
-kk=np.logspace(0,5,6,base=2,dtype=int)
+#base입력하지 않으면 상용로그 기본 스케일
+kk=np.logspace(0,5,6,dtype=int)
 
 plt.plot(kk)
-
+plt.show()
