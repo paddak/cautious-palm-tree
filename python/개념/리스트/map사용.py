@@ -25,4 +25,5 @@ print(list(map(str,range(10))))
 #이걸로 입력받고 map으로 정수변환
 d=map(int,input().split())  #map객체가 만들어진거임 보려면 list사용
 print(list(d))
+#map이 반환하는 맵 객체는 이터레이터라서 변수 여러개에 저장하는 언패킹 가능
 

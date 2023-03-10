@@ -8,7 +8,5 @@ c=[i+5 for i in range(10)]
 d=[i for i in range(10) if i%2==0]  #range로 0~9 생성하고 조건문가고 i로 가고 i로 가고
 
 #여러번도 가능
-e=[i*j for j in range(2,10) for i in range(1,10)]
-print(e)
-f=[i*j for i in range(1,10) for j in range(2,10)]
-print(f)
+e=[i*j for j in range(2,10) 
+   for i in range(1,10)]
